@@ -8,3 +8,5 @@ NEW LINE FOR REAL
 
 Adding new shit is fun
 line
+{New line indeed}
+Hello world
